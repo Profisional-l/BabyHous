@@ -270,6 +270,12 @@
     margin-left: 0;
     margin-right: 0;
   }
+
+  .u-section-1 .u-form-group-4 {
+    font-weight: normal;
+    text-transform: none;
+    letter-spacing: normal;
+  }
 }
 
 @media (max-width: 991px) {
