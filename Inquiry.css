@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(white, rgba(255,108,131,0.82));
+  background-image: linear-gradient(white, rgba(0,255,227,0.31));
 }
 
 .u-section-1 .u-sheet-1 {
@@ -20,6 +20,7 @@
 }
 
 .u-section-1 .u-text-1 {
+  font-weight: 300;
   margin: 33px 0 0;
 }
 
@@ -113,6 +114,7 @@
 }
 
 .u-section-1 .u-text-8 {
+  font-weight: 300;
   margin: 35px 112px 0 76px;
 }
 
